@@ -96,7 +96,7 @@ clean:
 
 Luego compilar con:
 ```bash
-make
+Presionando F5
 ```
 
 ## Cómo Jugar
