@@ -1,0 +1,57 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "C:/raylib/w64devkit/bin/mingw32-make.exe",
+            "args": [
+                "RAYLIB_PATH=C:/raylib/raylib",
+                "PROJECT_NAME=EscapeTheGrid",
+                "BUILD_MODE=DEBUG"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": false
+            },
+            "problemMatcher": ["$gcc"],
+            "detail": "Compilar proyecto Escape the Grid"
+        },
+        {
+            "label": "clean",
+            "type": "shell",
+            "command": "C:/raylib/w64devkit/bin/mingw32-make.exe",
+            "args": ["clean"],
+            "group": "build",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared"
+            },
+            "detail": "Limpiar archivos de compilación"
+        },
+        {
+            "label": "run",
+            "type": "shell",
+            "command": "${workspaceFolder}/EscapeTheGrid.exe",
+            "group": "test",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": true,
+                "panel": "new"
+            },
+            "dependsOn": "build",
+            "detail": "Ejecutar Escape the Grid"
+        }
+    ]
+}
