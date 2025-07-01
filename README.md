@@ -289,7 +289,7 @@ Los iconos del tutorial son idénticos a los elementos del juego real, eliminand
 
 ## Créditos
 
-Desarrollado como proyecto académico para el curso de Algoritmos y Estructuras de Datos.
+Desarrollado como proyecto académico para el curso de Técnicas de Simulación de Computadoras.
 
 **Equipo de Desarrollo:**
 - David Ernesto Mejía Oliva         00004722
