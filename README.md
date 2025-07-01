@@ -281,18 +281,24 @@ Los iconos del tutorial son idénticos a los elementos del juego real, eliminand
 
 ## Video Demo
 
-*[Enlace al video demo de 10 minutos]*
+*[Video Demo](https://www.youtube.com/watch?v=BUPSm0RbuL0)*
+
+## Reporte Técnico
+
+[*Reporte Técnico Escape The Grid*](https://ucaedusv-my.sharepoint.com/:b:/g/personal/00087022_uca_edu_sv/EWUTT-rQyppOqo41W8fRZhcBHKXlpOGYg9pwaVaaB399KQ?e=GXCYGP)
 
 ## Créditos
 
 Desarrollado como proyecto académico para el curso de Algoritmos y Estructuras de Datos.
 
 **Equipo de Desarrollo:**
-- [Nombres de los integrantes del equipo]
+- David Ernesto Mejía Oliva         00004722
+- Rodrigo Umanzor Velasquez         00087022
+- Diego Fernando Hernández Torres   00007222
 
 **Institución:** Universidad Centroamericana "José Simeon Cañas"
-**Curso:** [Nombre del Curso]  
-**Fecha:** Junio 2025
+**Curso:** Técnicas de Simulación de Computadoras  
+**Fecha:** lunes 30 de Junio de 2025
 
 ## Licencia
 
